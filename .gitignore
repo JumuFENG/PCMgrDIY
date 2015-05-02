@@ -30,3 +30,5 @@
 /Builds/VisualStudio2013/*.sdf
 /Builds/VisualStudio2013/*.suo
 /Builds/VisualStudio2013/*.vcxproj.filters
+/Builds/VisualStudio2013/*.opensdf
+/Builds/VisualStudio2013/Debug
