@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2013
+Project("{6954962D-F922-7361-6DA9-233DC06048C6}") = "PCMgrDIY", "PCMgrDIY.vcxproj", "{6F86D82E-DFE9-78E6-ECE9-1B610ECEF267}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F86D82E-DFE9-78E6-ECE9-1B610ECEF267}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6F86D82E-DFE9-78E6-ECE9-1B610ECEF267}.Debug|Win32.Build.0 = Debug|Win32
+		{6F86D82E-DFE9-78E6-ECE9-1B610ECEF267}.Release|Win32.ActiveCfg = Release|Win32
+		{6F86D82E-DFE9-78E6-ECE9-1B610ECEF267}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

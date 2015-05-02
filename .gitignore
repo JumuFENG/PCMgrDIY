@@ -26,3 +26,7 @@
 *.exe
 *.out
 *.app
+/JuceLibraryCode/modules
+/Builds/VisualStudio2013/*.sdf
+/Builds/VisualStudio2013/*.suo
+/Builds/VisualStudio2013/*.vcxproj.filters
